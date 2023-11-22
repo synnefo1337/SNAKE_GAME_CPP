@@ -1,5 +1,10 @@
 # SNAKE GAME
 
+## Red dot is apple +1 points
+## Green dot is kiwi +2 points
+## Blue dot is poison -1 points
+## Yellow dot is snake head.
+
 1. you can read how to compile SDL source code like this into programs in this link: 
 1. https://lazyfoo.net/tutorials/SDL/index.php
 1. and to configure extension libraries in this link:
