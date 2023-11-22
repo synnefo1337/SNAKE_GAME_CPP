@@ -5,6 +5,8 @@
 ## Blue dot is poison -1 points
 ## Yellow dot is snake head.
 
+### Program is already compiled but you can learn how to compile it:
+
 1. you can read how to compile SDL source code like this into programs in this link: 
 1. https://lazyfoo.net/tutorials/SDL/index.php
 1. and to configure extension libraries in this link:
